@@ -1,0 +1,2 @@
+year_of_birth = int(input("When were you born? Type in the year of your birth. " ))
+print(int(2022-year_of_birth))
