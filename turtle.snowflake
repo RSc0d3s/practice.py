@@ -1,0 +1,28 @@
+# Codes by Recca Sales
+# Written for educational purposes of the author.
+# 1/20/2022
+from turtle import *
+color("white")
+speed(10)
+pensize(6)
+Screen().bgcolor("gold")
+hideturtle()
+def vshape():
+    right(25)
+    forward(50)
+    backward(50)
+    left(50)
+    forward(50)
+    backward(50)
+    right(25)
+def snowflakeArm():
+    for x in range (0,4):
+        forward(30)
+        vshape()
+    backward(120)
+def snowflake():
+    for x in range(0,6):
+        snowflakeArm()
+        right(60)
+snowflake()
+mainloop()
