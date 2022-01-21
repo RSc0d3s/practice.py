@@ -1,0 +1,19 @@
+# Codes by Recca Sales
+# Written for educational purposes of the author.
+# 1/19/2022
+from turtle import *
+color("blue")
+begin_fill()
+fillcolor("blue")
+speed(1)
+pensize(4)
+Screen().bgcolor("black")
+forward (50)
+right (90)
+forward (50)
+right (90)
+forward (50)
+right (90)
+forward (50)
+end_fill()
+mainloop()
