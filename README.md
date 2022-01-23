@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Reccac0d3S
+- 👋 Hi, I’m @RSc0d3S
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python projects
