@@ -1,0 +1,9 @@
+#allow python to return info from a function
+#make function to cube a number
+
+def cube(num):
+    return num*num*num
+    print("code") # anything after return does not get executed
+
+result = cube(4)
+print(result)
